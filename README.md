@@ -1,4 +1,4 @@
-# I2L-PR
-The implementation of I2L-PR. The code will be available upon acceptance of the paper.
+# C2L-PR
+The implementation of C2L-PR. The code will be available upon acceptance of the paper.
 
-Official link: https://github.com/lab-sun/I2L-PR
+Official link: https://github.com/lab-sun/C2L-PR
